@@ -1,0 +1,217 @@
+[
+  {
+    "section": "Equipo de Producción",
+    "disciplines": [
+      {
+        "discipline": "Autor",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Planificador",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Programador",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Producción del Libro de Misiones, Manual Ilustrado y Tutorial",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Diseño de Diálogos",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Diseño de Historia",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Director de Arte",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Ambientación",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "P1nero"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Soporte Externo",
+        "titles": [
+          {
+            "title": "Sanctuary",
+            "names": [
+              "El_mal（玩建筑的牢E）"
+            ]
+          },
+          {
+            "title": "Algunas Animaciones",
+            "names": [
+              "merlin204"
+            ]
+          },
+          {
+            "title": "Algunas Texturas",
+            "names": [
+              "一只路过的小吴 Algunos Objetos",
+              "XVIII-凌 Algunos Efectos de Espada",
+              "Ao Algunas Habilidades, npc",
+              "脚踏梯子hill Trail"
+            ]
+          },
+          {
+            "title": "Terreno",
+            "names": [
+              "wonderful艾晨"
+            ]
+          },
+          {
+            "title": "Creación del ServerPack",
+            "names": [
+              "KamiKaguya"
+            ]
+          }
+        ]
+      },
+      {
+        "discipline": "Soporte de Equipamiento",
+        "titles": [
+          {
+            "title": "Patrocinio del Servidor de Pruebas",
+            "names": [
+              "白露（NHBlock）"
+            ]
+          },
+          {
+            "title": "Asistencia en Grabación",
+            "names": [
+              "Arcadia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Contribuciones de la Beta Cerrada",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "",
+            "names": [
+              "T_muse_Y",
+              "HuaSheng_peanuts",
+              "merlin204",
+              "ShelMarow",
+              "Arcadia",
+              "霖",
+              "32spark",
+              "脚踏梯子hill"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Espacio Publicitario Disponible",
+    "disciplines": [
+      {
+        "discipline": "Espacio Publicitario Disponible",
+        "titles": [
+          {
+            "title": "Espacio Publicitario Disponible",
+            "names": [
+              "Espacio Publicitario Disponible",
+              "Contacta a P1nero para más detalles"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Agradecimientos Especiales",
+    "disciplines": [
+      {
+        "discipline": "",
+        "titles": [
+          {
+            "title": "I18n (Traductores de otros idiomas pueden agregar su nombre aquí)",
+            "names": [
+              "zh_cn, en_us - P1nero",
+              "es_mx - See-afk"
+            ]
+          },
+          {
+            "title": "Homenajes",
+            "names": [
+              "Yesman",
+              "Super Awesome Baby Team",
+              "Minecraft",
+              "Minecraft Forge",
+              "Y todos los mods, paquetes de recursos y shaders usados en este modpack."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
